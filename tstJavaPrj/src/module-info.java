@@ -5,5 +5,10 @@
  * @author dell
  *
  */
+
+/*
+
 module tstJavaPrj {
 }
+
+*/
